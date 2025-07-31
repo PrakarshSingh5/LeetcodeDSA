@@ -8,10 +8,16 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
