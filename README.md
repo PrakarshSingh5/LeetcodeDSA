@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [3617-find-the-original-typed-string-i](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
@@ -43,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
@@ -50,6 +52,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
