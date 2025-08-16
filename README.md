@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [3617-find-the-original-typed-string-i](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
