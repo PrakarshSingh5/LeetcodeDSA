@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -65,10 +66,15 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
