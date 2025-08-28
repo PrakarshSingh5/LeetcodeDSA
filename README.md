@@ -10,6 +10,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1250-longest-common-subsequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
@@ -35,6 +36,7 @@
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
+| [1250-longest-common-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1250-longest-common-subsequence) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Divide and Conquer
 |  |
