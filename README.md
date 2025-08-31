@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
