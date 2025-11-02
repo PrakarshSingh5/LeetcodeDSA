@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0724-find-pivot-index](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0724-find-pivot-index) |
@@ -78,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
@@ -134,8 +136,10 @@
 | ------- |
 | [0015-3sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
