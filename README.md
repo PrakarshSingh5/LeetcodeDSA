@@ -23,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -44,6 +45,7 @@
 | [0072-edit-distance](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
