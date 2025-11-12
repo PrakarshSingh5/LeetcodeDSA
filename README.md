@@ -105,6 +105,7 @@
 | [0125-valid-palindrome](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
+| [0908-middle-of-the-linked-list](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
