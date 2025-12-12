@@ -31,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
