@@ -1,19 +1,18 @@
 class Solution {
 public:
     vector<string> buildArray(vector<int>& target, int n) {
-            vector<int>freq(101,0);
-            vector<string>res;
-            int val=*max_element(target.begin(),target.end());
-            for(int x:target){
-                freq[x]++;
-            }
+        vector<string> res;
+        int j = 0;
 
-            for(int i=1;i<=val;i++){
-                res.push_back("Push");
-                if(freq[i]==0){
-                    res.push_back("Pop");
-                }
+        for (int i = 1; i <= target.back(); i++) {
+            res.push_back("Push");
+            if (i == target[j]) {
+                j++;
+            } else {
+                res.push_back("Pop");
             }
-            return res;
+        }
+
+        return res;
     }
 };
