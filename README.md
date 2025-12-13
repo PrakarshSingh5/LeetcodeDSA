@@ -38,6 +38,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
@@ -168,6 +169,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
