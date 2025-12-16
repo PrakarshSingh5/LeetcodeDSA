@@ -14,6 +14,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1250-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1768-merge-strings-alternately) |
 | [3617-find-the-original-typed-string-i](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
@@ -123,6 +124,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
 | ------- |
