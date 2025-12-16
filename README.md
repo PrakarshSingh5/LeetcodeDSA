@@ -44,6 +44,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1470-shuffle-the-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -98,6 +99,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0908-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
@@ -165,6 +168,7 @@
 | [0229-majority-element-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
