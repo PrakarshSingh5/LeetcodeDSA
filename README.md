@@ -39,6 +39,7 @@
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -84,6 +85,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
@@ -105,12 +107,14 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
