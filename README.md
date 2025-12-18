@@ -45,6 +45,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -63,6 +64,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1250-longest-common-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Divide and Conquer
 |  |
@@ -88,6 +90,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
