@@ -24,6 +24,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -203,5 +204,6 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
