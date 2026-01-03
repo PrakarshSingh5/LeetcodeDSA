@@ -34,6 +34,7 @@
 | [0229-majority-element-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0636-exclusive-time-of-functions) |
@@ -101,6 +102,7 @@
 | [0169-majority-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0229-majority-element-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0029-divide-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -208,4 +211,8 @@
 | [0029-divide-two-integers](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
