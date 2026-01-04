@@ -37,6 +37,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0636-exclusive-time-of-functions](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0724-find-pivot-index) |
@@ -105,6 +106,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -194,6 +196,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0029-divide-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
