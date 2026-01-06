@@ -52,6 +52,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [2595-number-of-even-and-odd-bits](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2595-number-of-even-and-odd-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
