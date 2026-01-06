@@ -198,6 +198,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
+| [2595-number-of-even-and-odd-bits](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Counting Sort
 |  |
 | ------- |
