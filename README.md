@@ -25,6 +25,7 @@
 | [0031-next-permutation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
