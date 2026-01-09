@@ -54,6 +54,7 @@
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Dynamic Programming
 |  |
@@ -112,6 +113,7 @@
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [2595-number-of-even-and-odd-bits](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2595-number-of-even-and-odd-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting Sort
 |  |
 | ------- |
