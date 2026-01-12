@@ -55,6 +55,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Dynamic Programming
 |  |
@@ -206,6 +207,7 @@
 | [2595-number-of-even-and-odd-bits](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2595-number-of-even-and-odd-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Counting Sort
 |  |
 | ------- |
