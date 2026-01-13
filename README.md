@@ -53,6 +53,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -204,6 +205,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2595-number-of-even-and-odd-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
