@@ -10,6 +10,7 @@
 | [0097-interleaving-string](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0136-single-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
@@ -226,6 +228,7 @@
 | [0029-divide-two-integers](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
 |  |
 | ------- |
