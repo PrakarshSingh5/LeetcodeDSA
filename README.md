@@ -203,6 +203,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0136-single-number) |
+| [0401-binary-watch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
@@ -236,5 +237,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
