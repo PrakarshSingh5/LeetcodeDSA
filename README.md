@@ -206,6 +206,7 @@
 | [0401-binary-watch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0461-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
