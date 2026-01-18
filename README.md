@@ -52,6 +52,7 @@
 | [1470-shuffle-the-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1895-largest-magic-square](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -130,6 +131,7 @@
 | [0303-range-sum-query-immutable](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1895-largest-magic-square](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1895-largest-magic-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [1895-largest-magic-square](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1895-largest-magic-square) |
 ## Sorting
 |  |
 | ------- |
