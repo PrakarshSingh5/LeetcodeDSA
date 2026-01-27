@@ -56,6 +56,7 @@
 | [1929-concatenation-of-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -117,6 +118,7 @@
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -132,6 +134,7 @@
 | [0724-find-pivot-index](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1895-largest-magic-square](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1895-largest-magic-square) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0645-set-mismatch) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2595-number-of-even-and-odd-bits](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2595-number-of-even-and-odd-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
