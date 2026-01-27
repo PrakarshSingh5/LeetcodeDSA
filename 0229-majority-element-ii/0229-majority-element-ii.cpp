@@ -1,36 +1,47 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        vector<int> res;
-        int n = nums.size();
-        int count1 = 0, count2 = 0;
-        int cand1 = 0, cand2 = 0;
+        int n = nums.size() / 3;
+        cout << n;
+        // n / 3->6 / 3 = (i, i, i, x, y, z);
+        int cnt1 = 0, ele1 = 0;
+        int cnt2 = 0, ele2 = 0;
+        vector<int> ans;
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == cand1)
-                count1++;
-            else if (nums[i] == cand2)
-                count2++;
-            else if (count1 == 0) {
-                cand1 = nums[i];
-                count1 = 1;
-            } else if (count2 == 0) {
-                cand2 = nums[i];
-                count2 = 1;
-            } else {
-                count1--;
-                count2--;
+        for (int i = 0; i < nums.size(); i++) {
+            if (cnt1 == 0 && cnt2 == 0) {
+                cnt1++;
+                ele1 = nums[i];
+            } else if (ele1 == nums[i]) {
+                cnt1++;
+            } else if (ele2 == nums[i]) {
+                cnt2++;
+            } else if (cnt1 != 0 && ele1 != nums[i] && cnt2 == 0) {
+                ele2 = nums[i];
+                cnt2++;
+            } else if (cnt2 != 0 && ele2 != nums[i] && cnt1 == 0) {
+                ele1 = nums[i];
+                cnt1++;
+            } else if (cnt1 && cnt2 && ele1 != nums[i] && ele2 != nums[i]) {
+                cnt1--;
+                cnt2--;
             }
         }
-        //verfify
+        cnt1 = 0;
+        cnt2 = 0;
 
-        count1=count2=0;
-        for(auto num: nums){
-            if(num==cand1)count1++;
-            else if(num==cand2)count2++;
+        for (int x : nums) {
+            if (x == ele1)
+                cnt1++;
+            else if (x == ele2)
+                cnt2++;
         }
-        if(count1>(n/3))res.push_back(cand1);
-        if(count2>(n/3))res.push_back(cand2);
-        return res;
+
+        if (cnt1 > nums.size() / 3)
+            ans.push_back(ele1);
+        if (cnt2 > nums.size() / 3)
+            ans.push_back(ele2);
+
+        return ans;
     }
 };
