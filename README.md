@@ -26,6 +26,7 @@
 | [0031-next-permutation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
@@ -125,6 +126,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
