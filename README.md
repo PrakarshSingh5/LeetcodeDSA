@@ -76,6 +76,7 @@
 | [0152-maximum-product-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/1250-longest-common-subsequence) |
@@ -185,10 +186,12 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -264,4 +267,16 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshSingh5/LeetcodeDSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
